@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "72462280874",
+    "project_id": "spark-22909",
+    "storage_bucket": "spark-22909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72462280874:android:0a449756f65e41c12608d3",
+        "android_client_info": {
+          "package_name": "com.example.tokoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72462280874-lua5fkrupnej9kt58lseg675jh259n6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tokoto",
+            "certificate_hash": "91c033112565b489785a698bd8b871182636e6f7"
+          }
+        },
+        {
+          "client_id": "72462280874-mua659d44v0g49585ulabnq7r30fl9oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdHVQyhyZ1UMQBPoRS3AvVxVFxa4UNLqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72462280874-mua659d44v0g49585ulabnq7r30fl9oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
